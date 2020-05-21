@@ -4,35 +4,35 @@
 
 ### :books: Tecnologias usadas
 
-✅React
+✅ React
 
 
 
-✅Typescript
+✅ Typescript
 
 
 
-✅LocalStorage
+✅ LocalStorage
 
 
 
-✅Styled-components
+✅ Styled-components
 
 
 
-✅React-hooks
+✅ React-hooks
 
 
 
-✅Axios
+✅ Axios
 
 
 
-✅Eslint
+✅ Eslint
 
 
 
-✅Prettier
+✅ Prettier
 
 
 
